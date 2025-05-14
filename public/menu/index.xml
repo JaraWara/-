@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Навигация on Проект по проектной деятельности</title>
+    <link>http://localhost:1313/menu/</link>
+    <description>Recent content in Навигация on Проект по проектной деятельности</description>
+    <generator>Hugo</generator>
+    <language>ru</language>
+    <atom:link href="http://localhost:1313/menu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>О проекте</title>
+      <link>http://localhost:1313/menu/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/menu/about/</guid>
+      <description>&lt;p&gt;Подробное описание проекта.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Участники</title>
+      <link>http://localhost:1313/menu/participants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/menu/participants/</guid>
+      <description>&lt;p&gt;Участники проекта.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ресурсы</title>
+      <link>http://localhost:1313/menu/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/menu/resources/</guid>
+      <description>&lt;p&gt;Полезные ссылки.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Журнал</title>
+      <link>http://localhost:1313/menu/journal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/menu/journal/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
