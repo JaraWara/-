@@ -1,0 +1,18 @@
+baseURL = "https://jarawara.github.io/Levchenko_PP/"
+languageCode = "ru"
+title = "Проект по проектной деятельности"
+theme = "hugo-book"
+
+[params]
+  BookSection = 'docs'
+  BookTheme = 'auto'
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[outputs]
+  home = ["HTML"]
