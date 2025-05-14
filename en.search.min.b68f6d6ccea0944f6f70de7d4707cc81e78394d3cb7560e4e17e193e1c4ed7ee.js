@@ -1,0 +1,1 @@
+"use strict";(function(){const e="/en.search-data.min.42df2ae8c89173b6e3c27c9176984f40e7b37c02d7e955bf73c2d7a06c872115.json",t=Object.assign({cache:!0},{includeScore:!0,useExtendedSearch:!0,fieldNormWeight:1.5,threshold:.2,ignoreLocation:!0,keys:[{name:"title",weight:.7},{name:"content",weight:.3}]})})()
