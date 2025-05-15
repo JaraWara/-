@@ -7,7 +7,6 @@ https://jarawara.github.io/Levchenko_PP/
 ```bash
 git clone https://github.com/JaraWara/Levchenko_PP.git
 cd Levchenko_PP
-cd Levchenko_PP
 ```
 ### 2.Установите Hugo
 ```
